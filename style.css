@@ -2,48 +2,53 @@ body.a {
     background-color: #f6e3ce;
 }
 
-h1.b {
+#b {
     color: #610b0b;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h3.p1 {
+
+a.p1 {
     color: #7d4098;
     font-family: 'Courier New', Courier, monospace;
     position: relative;
-    top: 80px;
-}
-
-h3.p2 {
-    color: #c56563;
-    font-family: 'Courier New', Courier, monospace;
-    position: relative;
-    top: 160px;
-    left: 800px;
-}
-
-h3.p3 {
-    color: #c56563;
-    font-family: 'Courier New', Courier, monospace;
-    position: relative;
-    top: 240px;
-    left: 1600px;
+    top: 40px;
 }
 
 img.a {
     position: relative;
-    top: -20px;
-    left: 80px;
+    top: 40px;
+    left: 20px;
+}
+
+
+
+a.p2 {
+    color: #c56563;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    top: 160px;
+    left: 600px;
 }
 
 img.b {
     position: relative;
-    top: -40px;
-    left: 800px;
+    top: 200px;
+    left: 620px;
+}
+
+
+
+a.p3 {
+    color: #c56563;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    top: 240px;
+    left: 1100px;
 }
 
 img.c {
     position: relative;
-    top: -80px;
-    left: 1900;
+    top: 270px;
+    left: 1100px;
 }
